@@ -1,0 +1,4 @@
+# 基础课程只需要 torch 和 numpy；tokenizers 仅用于旧参考版 pipeline.py。
+torch>=2.6,<3
+numpy>=2,<3
+tokenizers>=0.21,<1
